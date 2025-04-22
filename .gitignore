@@ -1,0 +1,22 @@
+# Jekyll & GitHub Pages
+_site/
+.sass-cache/
+.jekyll-cache/
+*.gem
+*.log
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Node / Yarn
+node_modules/
+package-lock.json
+yarn.lock
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Markdown Preview Artifacts
+*.markdown-preview*

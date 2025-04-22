@@ -1,0 +1,8 @@
+title: NOTBOT
+baseurl: ""
+url: "https://n0tb0t.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
